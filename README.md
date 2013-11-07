@@ -1,4 +1,4 @@
-GoHealth Code Challenge
+Secret Santa Generator
 =======================
 
 ##Summary
