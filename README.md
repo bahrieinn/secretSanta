@@ -24,7 +24,7 @@ I followed this to set up Maven on my own machine: http://maven.apache.org/downl
 ##Program Setup 
 ###(assumes Maven is setup on machine)
 1. Unzip `secretsanta-maven.zip` into any directory you want  
-2. In Terminal cd into secretsanta-maven/SecretSanta  
+2. In Terminal cd into `secretsanta-maven/SecretSanta`  
 3. Type `mvn compile`  
 4. Then type `mvn package` which should run the Tests and generate a JAR file to run the program  
 
